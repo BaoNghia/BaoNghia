@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @BaoNghia
+- 👀 I’m interested in Computer Science
+- 🔭 I’m currently working as AI Research Engineer
+- 📫 How to reach me: nghiabao1710@gmail.com
