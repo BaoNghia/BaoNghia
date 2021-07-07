@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @BaoNghia
 - 👀 I’m interested in Computer Science
-- 🔭 I’m currently working as AI Research Engineer
+- 🔭 I’m currently working as AI Researcher/ Engineer
 - 📫 How to reach me: nghiabao1710@gmail.com
